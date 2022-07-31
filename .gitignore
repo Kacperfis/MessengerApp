@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Prerequisites test
+=======
+# Prerequisites
+>>>>>>> 4fea7a883be6a55c58350958c985b569da7c2653
 *.d
 
 # Compiled Object files
